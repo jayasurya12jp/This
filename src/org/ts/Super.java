@@ -6,9 +6,10 @@ public class Super {
 		
 	}
 	int a=10;
+	int b=80;
 		
 	{
-		System.out.println("int value a:"+a);
+		System.out.println("int value a:"+a+b);
 		
 	}
 	public void superName() {
